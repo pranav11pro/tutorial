@@ -1,0 +1,15 @@
+[mobilenet]
+lazy = true
+git-tree-sha1 = "7cb53d9dc4b69748f5cf7f6a00048fc5a0553294"
+
+    [[mobilenet.download]]
+    url = "https://github.com/UW-PHARM/bitstream-hackathon/releases/download/v0.1.0-pre/mobilenet.tar.gz"
+    sha256 = "56238f46ab494fea256e013fad799f6840b58ba1ee99a705daf24289de900f31"
+
+[vww]
+lazy = true
+git-tree-sha1 = "749f7798c438cb170efe689633f9a5ea107135b4"
+
+    [[vww.download]]
+    url = "https://github.com/UW-PHARM/bitstream-hackathon/releases/download/v0.1.0-pre/vww-hackathon.tar.gz"
+    sha256 = "00f9e14944637c75b11370565f34e6aa1bde5ec74c1f9be13c907c638ee167cd"
